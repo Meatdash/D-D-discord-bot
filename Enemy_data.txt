@@ -1,0 +1,2 @@
+Wraith1 undefined Wraith 35 10 7 8 5 Haunted knife 40 3 50 1 0 0 0 0 0 0 ./enemyIcons/Wraith.jpg 
+Wraith2 undefined Wraith 35 10 7 8 5 Haunted knife 40 3 50 1 0 0 0 0 0 0 ./enemyIcons/Wraith.jpg 
